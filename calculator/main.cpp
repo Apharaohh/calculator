@@ -39,7 +39,7 @@ int main (){
                 cout << "Error! Division by zero." << endl;
                 break;
             
-        //Default line statement that if the user inputs something other that the options listed will throw an error and break off from the switch operation
+        //Default line statement that if the user inputs something other that the options listed will throw an error and break off from the switch operation and using cases
         default:
             cout << "Invalid operator please try again." << endl;
             break;
